@@ -8,3 +8,6 @@ https://alalitres-kr5k.glideapp.io/dl/17171d
 
 Антихакатон 2 день 
 https://bubble.io/page?name=index&id=matuhannewapp&tab=tabs-1
+
+ЭКСЕЛЬ ДЛЯ ПЕВОГО ДНЯ
+https://docs.google.com/spreadsheets/d/1Dg7Waf4M0t_vh61rsIUzhyrxFsLJ17v1lDp2wSkodU0/edit?usp=drivesdk 
