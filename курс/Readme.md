@@ -3,3 +3,8 @@
 
 https://docs.google.com/document/d/1cQh7EAYdnPwe00ynWQlvutJ5bNTa2CG2IUb0v7OU53I/edit?usp=sharing
 
+Антихакатон 1 день
+https://alalitres-kr5k.glideapp.io/dl/17171d
+
+Антихакатон 2 день 
+https://bubble.io/page?name=index&id=matuhannewapp&tab=tabs-1
