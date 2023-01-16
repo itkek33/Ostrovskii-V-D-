@@ -13,4 +13,8 @@ https://bubble.io/page?name=index&id=matuhannewapp&tab=tabs-1
 https://docs.google.com/spreadsheets/d/1Dg7Waf4M0t_vh61rsIUzhyrxFsLJ17v1lDp2wSkodU0/edit?usp=drivesdk 
 
 
-ссылка на курс https://live.skillbox.ru/playlists/code/python/
+ссылка на курс https://www.udemy.com/course/bestpython/learn/lecture/14077378#overview
+
+
+
+https://live.skillbox.ru/playlists/code/python/
