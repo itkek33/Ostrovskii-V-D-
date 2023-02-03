@@ -16,3 +16,6 @@ https://docs.google.com/spreadsheets/d/1Dg7Waf4M0t_vh61rsIUzhyrxFsLJ17v1lDp2wSko
 ссылка на курс https://www.udemy.com/course/bestpython/learn/lecture/14077378#overview
 
 Ссылка на конспект https://docs.google.com/document/d/1crmaj_AfpnDxzq1FTWn5XriAlwwZsPujiVahxoW4sGk/edit?usp=drivesdk
+
+
+Ссылка на сертификат по олимпиаде https://drive.google.com/file/d/1aMZosEGtRsbrtt3rizZmojmCIX8wJZzI/view?usp=drivesdk 
