@@ -21,3 +21,5 @@ https://docs.google.com/spreadsheets/d/1Dg7Waf4M0t_vh61rsIUzhyrxFsLJ17v1lDp2wSko
 Ссылка на сертификат по олимпиаде https://drive.google.com/file/d/1aMZosEGtRsbrtt3rizZmojmCIX8wJZzI/view?usp=drivesdk 
 
 Второй сертификат https://drive.google.com/file/d/1b_ZN2wLzUdCx3BvLdh-lqz1suGRsT3xu/view?usp=drivesdk 
+
+прям сертификат https://drive.google.com/file/d/1bg8b69VRailylMxPXtbNNWbg8W2sruNJ/view?usp=drivesdk 
