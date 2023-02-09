@@ -27,3 +27,5 @@ https://docs.google.com/spreadsheets/d/1Dg7Waf4M0t_vh61rsIUzhyrxFsLJ17v1lDp2wSko
 Ссылки на фото акселератор 
 https://drive.google.com/file/d/1dlxfRopfSb_0T1G4KK9oGydx3GG4fchi/view?usp=drivesdk
 https://drive.google.com/file/d/1dOx5EAizpr17clrx_xpOJU1mV8LoNyey/view?usp=drivesdk
+
+ссылка на презинтацию по олимпиаде https://docs.google.com/presentation/d/1XosYes1b6WP_q0kR-VCznvzx4pjZ98hm/edit?usp=sharing&ouid=114987831998259542559&rtpof=true&sd=true
