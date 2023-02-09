@@ -23,3 +23,7 @@ https://docs.google.com/spreadsheets/d/1Dg7Waf4M0t_vh61rsIUzhyrxFsLJ17v1lDp2wSko
 Второй сертификат https://drive.google.com/file/d/1b_ZN2wLzUdCx3BvLdh-lqz1suGRsT3xu/view?usp=drivesdk 
 
 прям сертификат https://drive.google.com/file/d/1bg8b69VRailylMxPXtbNNWbg8W2sruNJ/view?usp=drivesdk 
+
+Ссылки на фото акселератор 
+https://drive.google.com/file/d/1dlxfRopfSb_0T1G4KK9oGydx3GG4fchi/view?usp=drivesdk
+https://drive.google.com/file/d/1dOx5EAizpr17clrx_xpOJU1mV8LoNyey/view?usp=drivesdk
